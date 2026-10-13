@@ -61,6 +61,6 @@ Teams whose leaders understand that shift will ship multiples of what they ship 
 
 ---
 
-*Anusha K S — Founder & CTO, Vriksha Techno Solutions · [LinkedIn](https://www.linkedin.com/in/ksanusha/) · [Google Scholar](https://scholar.google.com/citations?user=NAkCyPQAAAAJ)*
+*Anusha K S — CTO, Vriksha Techno Solutions · [LinkedIn](https://www.linkedin.com/in/ksanusha/) · [Google Scholar](https://scholar.google.com/citations?user=NAkCyPQAAAAJ)*
 
 *The production Vrix Concierge codebase is proprietary; this repository documents the build method.*
